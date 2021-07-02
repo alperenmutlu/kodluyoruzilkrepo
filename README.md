@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Git Eğitiminde oluşturduğum
 https://github.com/alperenmutlu/kodluyoruzilkrepo.git
 
 ## Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+-li Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 ### Linux için:
 - cd kodluyoruzilkrepo
